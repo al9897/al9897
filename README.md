@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @al9897
-- 👀 I’m interested in AI,AR,Photography
+- 👀 I’m interested in C#,Photography
 - 🌱 I’m currently learning ICT
 - 📫 How to reach me :lean1112014@gmail.com
 
